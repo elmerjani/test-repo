@@ -1,4 +1,4 @@
-package com.reservation.usermanagement;
+package com.reservation.usermanagement.user.command;
 
 import com.reservation.usermanagement.dto.LoginRequest;
 import com.reservation.usermanagement.dto.RegisterRequest;

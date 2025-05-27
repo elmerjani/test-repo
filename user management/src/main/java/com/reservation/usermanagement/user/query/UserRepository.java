@@ -1,4 +1,4 @@
-package com.reservation.usermanagement;
+package com.reservation.usermanagement.user.query;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

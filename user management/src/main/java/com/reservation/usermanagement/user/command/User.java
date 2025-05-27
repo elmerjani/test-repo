@@ -1,4 +1,4 @@
-package com.reservation.usermanagement;
+package com.reservation.usermanagement.user.command;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
